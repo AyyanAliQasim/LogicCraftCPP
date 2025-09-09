@@ -52,3 +52,7 @@ Ayyan Ali Qasim
 
 // Made By Ayyan Ali Qasim.
 // By AAQ
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/LogicCraftCPP.git
