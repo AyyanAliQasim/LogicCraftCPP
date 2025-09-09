@@ -21,7 +21,7 @@ This project serves as a **mini toolkit** for learning and practicing C++ fundam
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/AyyanAliQasim/LogicCraftCPP.git
+   git clone https://github.com/AyyanAliQasim/LogicCraft.cpp.git
 
 2. Navigate to the project folder:
    ```bash
