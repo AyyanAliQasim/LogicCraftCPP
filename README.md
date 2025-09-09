@@ -20,20 +20,20 @@ This project serves as a **mini toolkit** for learning and practicing C++ fundam
 
 ## ⚙️ How to Run
 1. Clone this repository:
-   
-  " git clone https://github.com/AyyanAliQasim/LogicCraftCPP.git "
+   ```bash
+   git clone https://github.com/AyyanAliQasim/LogicCraftCPP.git
 
 2. Navigate to the project folder:
-
-   " cd LogicCraftCPP "
+   ```bash
+   cd LogicCraftCPP
 
 3. Compile the program:
-
-   " g++ LogicCraft.cpp -o output "
+   ```bash
+   g++ LogicCraft.cpp -o output
 
 4. Run the program:
-
-   " ./output "
+   ```bash
+   ./output
 
 
 🛠 Features
@@ -52,7 +52,3 @@ Ayyan Ali Qasim
 
 // Made By Ayyan Ali Qasim.
 // By AAQ
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/LogicCraftCPP.git
